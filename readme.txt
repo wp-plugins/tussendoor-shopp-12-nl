@@ -2,8 +2,8 @@
 Contributors: Tussendoor internet & marketing 
 Tags: tussendoor, shopp, nederlands, dutch ,translate, language
 Requires at least: 3.0
-Tested up to: 3.6
-Stable tag: 1.0
+Tested up to: 3.2.1
+Stable tag: 1.3
 
 Deze plugin biedt u de vertaling voor de Shopp 1.2.* plugin naar het Nederlands
 
@@ -39,6 +39,8 @@ Voor meer informatie / screenshots kun je bij de volgende tab kijken.
 = todo =
 *	Upadate / toevoegen nieuwe woorden / zinnen bij update Shopp
 
+= 1.3 = 
+*	Updated translation files, thanks to Erik de Vries ([wpwebbouw.nl](wpwebbouw.nl)) for translating!
 
 = 1.0 =
 *	Initial release

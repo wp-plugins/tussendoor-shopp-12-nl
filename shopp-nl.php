@@ -3,7 +3,7 @@
 Plugin Name: Shopp (nl)
 Plugin URI: http://tussendoor.nl/
 Description: Extends the Shopp plugin and add-ons with the Dutch language: <strong>Shopp</strong> 1.2
-Version: 1.2
+Version: 1.3
 Requires at least: 3.0
 Author: Tussendoor
 Author URI: http://tussendoor.nl/

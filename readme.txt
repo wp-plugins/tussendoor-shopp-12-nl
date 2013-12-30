@@ -2,7 +2,7 @@
 Contributors: Tussendoor internet & marketing 
 Tags: tussendoor, shopp, nederlands, dutch ,translate, language
 Requires at least: 3.0
-Tested up to: 3.2.1
+Tested up to: 3.8
 Stable tag: 1.3
 
 Deze plugin biedt u de vertaling voor de Shopp 1.2.* plugin naar het Nederlands

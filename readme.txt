@@ -1,6 +1,6 @@
 === Tussendoor Shopp 1.2.* NL / Dutch plugin ===
-Contributors: Tussendoor internet & marketing 
-Tags: tussendoor, shopp, nederlands, dutch ,translate, language
+Contributors: Tussendoor
+Tags: tussendoor, shopp, nederlands, dutch ,translate, language, vertaling
 Requires at least: 3.0
 Tested up to: 3.8
 Stable tag: 1.3

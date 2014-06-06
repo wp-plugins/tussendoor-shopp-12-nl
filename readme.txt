@@ -21,6 +21,17 @@ Vertaling Shopp front-end.
 
 Er zijn geen opties / instellingen of andere pagina's in deze plugin. Simpelweg activeren en klaar is kees.
 
+= Custom / Maatwerk plugins =
+
+Are you looking for custom made solutions or plugins for your WordPress site? You can always contact us via support@tussendoor.nl. Please provide us as much information as possible. You can also check our other plugins via the [Tussendoor tag](https://wordpress.org/plugins/tags/tussendoor) or via our [profile page](https://profiles.wordpress.org/tussendoor/) here at WordPress. 
+
+Some of our premium plugins can be found at [Codecanyon](http://codecanyon.net/user/Tussendoor/portfolio) or our [own website](http://www.tussendoor.nl/wordpress-plugins/).
+
+= Nederlands =
+Ben je op zoek naar maatwerk oplossingen of pugins voor je WordPress website? Dan kun je altijd contact met ons opnemen via support@tussendoor.nl. Verschaf aub zo veel mogelijk  informatie bij je aanvraag. Je kunt ook een kijkje nemen bij onze andere plugins via de [Tussendoor tag](https://wordpress.org/plugins/tags/tussendoor) of op ons [profiel hier op WordPress](https://profiles.wordpress.org/tussendoor/).
+
+Een aantal premium plugins zijn te vinden op [onze eigen website](http://www.tussendoor.nl/wordpress-plugins/) en op [Codecanyon](http://codecanyon.net/user/Tussendoor/portfolio).
+
 == Installation ==
 
 = Nederlands / Dutch =
